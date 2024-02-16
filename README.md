@@ -1,0 +1,2 @@
+# kss
+Keep Software Small
